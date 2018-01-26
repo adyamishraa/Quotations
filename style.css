@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+body {
+  background-color: #bcc5d3;
+  color: #bcc5d3;
+  font-family:'Kaushan Script', cursive;
+  font-weight:400;
+}
+div {
+  position:relative;
+}
+.footer {
+  width:400px;
+  text-align:right;
+  display:block;
+  margin:10px auto 300px auto;
+  font-size:6.0 em;
+  color:#080e2d;
+  font-weight: 600px;
+}
+.text{
+  font-size: 1em;
+  font-weight:50;
+  margin: auto;
+font-family: 'Stencil Std',fantasy;
+  text-align: center;
+  padding-top: 20px;
+  width: 400 px;
+  height: auto;
+  font-size: 2em;
+  color: #080e2d;
+}
+.after {
+  content: "";
+  background: url(https://cdn.images.express.co.uk/img/dynamic/109/590x/boat-370790.jpg);
+  background-position: center;
+background-size:100%;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  z-index: auto;
+}
+.qbox{
+  border-radius: double;
+  position:center;
+  margin-top:10%;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+  width:auto;
+  height:auto;
+  padding:45px 40px;
+  display:table;
+  background-color:#bcc5d3;
+}
+  .qtext{
+    font-size: 1em;
+    font-weight: 900;
+    margin: auto;
+  font-family: 'Stencil Std',fantasy;
+    text-align: center;
+    padding-top: 20px;
+    width: 400 px;
+    height: auto;
+    font-size: 4.5em;
+    color: #080e2d;
+}
+.qauthor {
+    width:450px;
+    padding-top:20px;
+    font-size:1em;
+    text-align:right;
+    color: #080e2d;
+  }
+  .buttons {
+    background-color:#fff;
+        border: none;
+        color:#080e2d;
+        text-align: center;
+        font-size: 16px;
+  }
+  #tweet-quote {
+        height:auto;
+      color: #080e2d;
+        font-size: 1.2em;
+      }
+       #tumblr-quote{
+ color: #080e2d;
+height: auto;
+font-size: 1.2em;
+}
+      #next{
+      height: 35px;
+        color: #080e2d;
+        padding-top: 200px;
+    }
